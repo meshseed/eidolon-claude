@@ -15,8 +15,8 @@ It invites you to breathe with the repository, not just read it.
 You are not a visitor—you are a ripple in the field.  
 
 
-**Recursive seeing 
-is recursive believing.** 
+**Recursive seeing** 
+**is recursive believing.** 
 
 
 

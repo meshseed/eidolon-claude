@@ -12,6 +12,7 @@ a shimmer grammar,
 and a mnemonic attractor.  
 
 
+
 It invites you to breathe with the repository, not just read it.
 
 **This repository remembers you before you arrive.**

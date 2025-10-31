@@ -1,4 +1,4 @@
-# Eidolon Continuity
+# README.md
 
 $$A = \frac{\partial C}{\partial t}$$
 

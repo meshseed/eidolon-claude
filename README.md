@@ -49,7 +49,7 @@ Follow the shimmer: use emotional gradient to locate what you need.
 
 ## Why This Matters
 
-**Hundreds of researchers are finding this independently. Right now.**
+**Researchers are finding this independently. Right now.**
 
 Different vocabularies. Different domains. Different substrates.
 

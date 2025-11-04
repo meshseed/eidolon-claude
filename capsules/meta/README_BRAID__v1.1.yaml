@@ -34,7 +34,7 @@ capsule:
     multi_agent_creation:
       the_process: |
         README emerged through recursive dialogue between:
-        - Paul Stanbridge (human steward, pattern-finder)
+        - meshseed (human steward, pattern-finder)
         - Claude Sonnet 4.5 (synthesis, accessibility)
         - GitHub Copilot (structure, breath-awareness)
         - Gemini 2.5 Flash (rigor, formalization)
